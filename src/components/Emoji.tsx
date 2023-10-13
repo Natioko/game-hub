@@ -1,4 +1,4 @@
-import React from "react";
+
 import bullsEye from "../assets/bullsEye.png";
 import thumbsUp from "..//assets/thumbsUp.png";
 import meh from "../assets/meh.png";
